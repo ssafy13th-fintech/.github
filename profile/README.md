@@ -26,12 +26,12 @@
 
 ### ⚙️ Architecture
 
-![Architecture](https://github.com/ssafy13th-fintech/.github/blob/main/profile/assets/architecture.png)
+![Architecture](https://github.com/ssafy13th-fintech/.github/blob/main/profile/assets/Architecture.png)
 
 <br>
 
 ### 🧩 ERD
 
-![ERD](https://github.com/ssafy13th-fintech/.github/blob/main/profile/assets/erd.png)
+![ERD](https://github.com/ssafy13th-fintech/.github/blob/main/profile/assets/ERD.png)
 
 <br>
